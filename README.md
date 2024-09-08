@@ -1,46 +1,117 @@
-# Getting Started with Create React App
+# IMDb Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern React application for searching and managing movies with a stylish user interface. The app allows users to search for movies, view details, and manage a list of favorite movies.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Search for movies using a keyword.
+- View detailed information about each movie.
+- Add and remove movies from a favorites list.
+- Responsive and modern design.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **React**: For building the user interface.
+- **Redux Toolkit**: For state management.
+- **React Router**: For routing and navigation.
+- **Bootstrap**: For styling and responsive design.
+- **TypeScript**: For type safety and improved development experience.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Setup
 
-### `npm test`
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/Roman9456/imdb-movie-app.git
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Navigate to the project directory:**
+    ```bash
+    cd imdb-movie-app
+    ```
 
-### `npm run build`
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Start the development server:**
+    ```bash
+    npm start
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   The app will be running on [http://localhost:3000](http://localhost:3000).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Usage
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Search Movies**: Use the search bar to find movies by name.
+- **View Details**: Click on a movie to see detailed information.
+- **Favorites**: Add movies to your favorites list and view them on the favorites page.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feel free to open issues or submit pull requests if you have any suggestions or improvements.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is licensed under the MIT License. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# IMDb Movie App
+
+Современное приложение на React для поиска и управления фильмами с стильным пользовательским интерфейсом. Приложение позволяет пользователям искать фильмы, просматривать детали и управлять списком избранных фильмов.
+
+## Особенности
+
+- Поиск фильмов по ключевому слову.
+- Просмотр детальной информации о каждом фильме.
+- Добавление и удаление фильмов из списка избранного.
+- Адаптивный и современный дизайн.
+
+## Используемые технологии
+
+- **React**: Для построения пользовательского интерфейса.
+- **Redux Toolkit**: Для управления состоянием.
+- **React Router**: Для маршрутизации и навигации.
+- **Bootstrap**: Для стилей и адаптивного дизайна.
+- **TypeScript**: Для безопасности типов и улучшенного процесса разработки.
+
+## Настройка
+
+1. **Клонируйте репозиторий:**
+    ```bash
+    git clone https://github.com/Roman9456/imdb-movie-app.git
+    ```
+
+2. **Перейдите в каталог проекта:**
+    ```bash
+    cd imdb-movie-app
+    ```
+
+3. **Установите зависимости:**
+    ```bash
+    npm install
+    ```
+
+4. **Запустите сервер разработки:**
+    ```bash
+    npm start
+    ```
+
+   Приложение будет работать на [http://localhost:3000](http://localhost:3000).
+
+
+## Использование
+
+- **Поиск фильмов**: Используйте строку поиска для нахождения фильмов по названию.
+- **Просмотр деталей**: Нажмите на фильм, чтобы увидеть детальную информацию.
+- **Избранное**: Добавляйте фильмы в список избранного и просматривайте их на странице избранного.
+
+## Сотрудничество
+
+Не стесняйтесь открывать вопросы или отправлять пулл-запросы, если у вас есть предложения или улучшения.
+
+## Лицензия
+
+Этот проект лицензирован по лицензии MIT.
+
